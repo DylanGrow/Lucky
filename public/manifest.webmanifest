@@ -1,0 +1,9 @@
+{
+  "name": "Let the Luck Roll In",
+  "short_name": "LuckRoll",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f2b19",
+  "theme_color": "#1a472a",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}
