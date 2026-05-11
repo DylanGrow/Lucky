@@ -1,0 +1,36 @@
+/let-the-luck-roll-in/
+├── .github/workflows/deploy.yml
+├── public/
+│   ├── favicon.svg
+│   ├── og-image.png
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   └── manifest.webmanifest
+├── src/
+│   ├── assets/
+│   │   └── dice-skins/ (SVG/PNG)
+│   ├── components/
+│   │   ├── betting-board/ (PassLine, DonPass, PlaceBets, Odds, etc.)
+│   │   ├── dice/ (DiceFace.vue, DiceTable.vue)
+│   │   ├── ui/ (Button.vue, Chip.vue, Toast.vue)
+│   │   └── Tutorial.vue
+│   ├── composables/
+│   │   ├── useDiceRoll.js
+│   │   ├── useSound.js
+│   │   ├── useEasterEggs.js
+│   │   └── useStreak.js
+│   ├── store/
+│   │   └── gameStore.js
+│   ├── utils/
+│   │   ├── db.js
+│   │   ├── payouts.js
+│   │   └── shareLink.js
+│   ├── styles/
+│   │   └── main.css
+│   ├── App.vue
+│   └── main.js
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+└── README.md
