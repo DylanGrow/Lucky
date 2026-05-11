@@ -1,0 +1,5 @@
+npm init vue@latest let-the-luck-roll-in
+cd let-the-luck-roll-in
+npm i pinia vite-plugin-pwa
+# Replace generated files with the configs above
+npm run dev
