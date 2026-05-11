@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import { VitePWA } from 'vite-plugin-pwa'
 
 // ⚠️ REPLACE THIS with your exact GitHub repo name
-const REPO_NAME = 'let-the-luck-roll-in'
+const REPO_NAME = 'lucky'
 
 export default defineConfig({
   // CRITICAL: Tells Vite where your app lives on GitHub Pages
